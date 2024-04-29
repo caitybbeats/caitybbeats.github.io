@@ -25,12 +25,14 @@ nav {
 
 
 header {
-    font-family: Basier, Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
 
 h1 {
+ font-family: 'Times New Roman', Times, serif;
   font-size: 46px;
+  font-weight: bold;
 }
 
 .byline {
@@ -74,3 +76,4 @@ a:hover {
   color: #717171;
   text-decoration-color: #ffcb04;
 }
+
