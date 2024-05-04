@@ -3,8 +3,9 @@ body {
 }
 
 nav {
-  border-top: 8px solid black;
-  border-bottom: 1px solid black;
+  border-top: 8px solid #58a8ea;
+  border-top: 8px solid #58a8ea;
+  border-bottom: 1px solid ;
   padding: 20px;
   text-align: center;
 }
@@ -14,7 +15,7 @@ nav {
 }
 
 .sitemotto {
-  color: #de2f23;
+  color: #58a8ea;
   font-family: Basier, Arial, sans-serif;
   font-size: 14px;
   text-transform: uppercase;
@@ -44,7 +45,7 @@ h1 {
 }
 
 article > p {
-  font-family: Pensum, "Times New Roman", serif;
+  font-family: Georgia, 'Times New Roman', Times, serif
   font-size: 20px;
 }
 
